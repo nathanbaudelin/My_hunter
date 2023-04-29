@@ -34,5 +34,3 @@ To use it, follow the instructions below:<br/>
 ![file](./pictures/screen_my_hunter.png)
 
 ![file](./pictures/screen_fin_my_hunter.png)
-
----
